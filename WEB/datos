@@ -1,0 +1,53 @@
+<section data-bs-version="5.1" class="slider1 cid-tzTOI8E1F9" id="slider1-5">
+    
+    <div class="carousel slide carousel-fade" id="tAECmTbfpK" data-ride="carousel" data-bs-ride="carousel" data-interval="5000" data-bs-interval="5000">
+        <ol class="carousel-indicators">
+            <li data-slide-to="0" data-bs-slide-to="0" class="active" data-target="#tAECmTbfpK" data-bs-target="#tAECmTbfpK"></li>
+            <li data-slide-to="1" data-bs-slide-to="1" data-target="#tAECmTbfpK" data-bs-target="#tAECmTbfpK"></li>
+            <li data-slide-to="2" data-bs-slide-to="2" data-target="#tAECmTbfpK" data-bs-target="#tAECmTbfpK"></li><li data-slide-to="3" data-bs-slide-to="3" data-target="#tAECmTbfpK" data-bs-target="#tAECmTbfpK"></li><li data-slide-to="4" data-bs-slide-to="4" data-target="#tAECmTbfpK" data-bs-target="#tAECmTbfpK"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item slider-image item active">
+                <div class="item-wrapper">
+                    <img class="d-block w-100" src="assets/images/1.jpg" alt="" data-slide-to="0" data-bs-slide-to="0">
+                    
+                    
+                </div>
+            </div>
+            <div class="carousel-item slider-image item">
+                <div class="item-wrapper ">
+                    <img class="d-block w-100" src="assets/images/2.jpg" alt="" data-slide-to="1" data-bs-slide-to="1">
+                    
+                    
+                </div>
+            </div>
+            <div class="carousel-item slider-image item">
+                <div class="item-wrapper ">
+                    <img class="d-block w-100" src="assets/images/lnoatm7eewxui5-jmrfzsntm-z0zn0tktz-smf6-ewi-plaintext-638156863353584900.jpg" alt="" data-slide-to="2" data-bs-slide-to="2">
+                    
+                    
+                </div>
+            </div><div class="carousel-item slider-image item">
+                <div class="item-wrapper ">
+                    <img class="d-block w-100" src="assets/images/vs6syamcog1dejtyq7ppq2hrmwivf-ppru9po6dfwas-plaintext-638156863396330100.jpeg" alt="" data-slide-to="3" data-bs-slide-to="3">
+                    
+                    
+                </div>
+            </div><div class="carousel-item slider-image item">
+                <div class="item-wrapper ">
+                    <img class="d-block w-100" src="assets/images/df1xrsqgnkmlgvhol5lmrtucfzfd7af4mmvvprxhweq-plaintext-638156863379169300.jpg" alt="" data-slide-to="4" data-bs-slide-to="4">
+                    
+                    
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev" href="#tAECmTbfpK">
+            <span class="mobi-mbri mobi-mbri-arrow-prev" aria-hidden="true"></span>
+            <span class="sr-only visually-hidden">Previous</span>
+        </a>
+        <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next" href="#tAECmTbfpK">
+            <span class="mobi-mbri mobi-mbri-arrow-next" aria-hidden="true"></span>
+            <span class="sr-only visually-hidden">Next</span>
+        </a>
+    </div>
+</section>
